@@ -1,29 +1,15 @@
 # chatroom
 
-## Project setup
-```
-yarn install
-```
+### 缺少
+main.js删除多余的elementUI引入
 
-### Compiles and hot-reloads for development
+### 运行
 ```
-yarn run serve
-```
+host配置 
+  127.0.0.1 sit01-im.yimifudao.com
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+yarn 
 
-### Run your tests
-```
-yarn run test
-```
+yarn serve
 
-### Lints and fixes files
 ```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
